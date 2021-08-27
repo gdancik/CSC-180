@@ -13,11 +13,10 @@ exclude_from_nav: false
 * Course Setup
     * Sign up for [Piazza](https://piazza.com) using your Eastern e-mail address. You will be getting an e-mail with more information shortly.
     * Install the necessary software for your personal computer (instructions are on the [Course Information]( {{site.baseurl }}/info/) page).   
+
 {% comment %} 
 </div>
-
-<hr style = "height:1px; background-color:red;">
-* Chapter 3 zyBook Participation and Challenge Activities (Due: Monday, 09/16/2019)
-* [Sign up for Twitter Developer Account]({{ site.baseurl }}/data/hw/Twitter.pdf)
-* [Lab 9: kNN]({{ site.baseurl }}/data/hw/lab-knn.ipynb) (Due: Monday, 11/11/2019)
 {% endcomment %}
+
+<hr style = "margin:5px; height:1px; background-color:red;">
+* [Lab 1]({{ site.baseurl }}/data/hw/lab1.ipynb) (Due: Wednesday, 9/8/2021)
