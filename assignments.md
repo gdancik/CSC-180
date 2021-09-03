@@ -19,4 +19,4 @@ exclude_from_nav: false
 {% endcomment %}
 
 <hr style = "margin:5px; height:1px; background-color:red;">
-* [Lab 1]({{ site.baseurl }}/data/hw/lab1.ipynb) (Due: Wednesday, 9/8/2021)
+* [Lab 1]({{ site.baseurl }}/data/hw/lab1.ipynb) (Due: Wednesday, 9/8/2021; turn in a hard copy at the beginning of class)
