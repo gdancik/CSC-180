@@ -11,6 +11,8 @@ exclude_from_nav: false
     * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
+* [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
+* [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 
 {% comment %}
 {% endcomment %}
