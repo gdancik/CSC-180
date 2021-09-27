@@ -13,6 +13,6 @@ exclude_from_nav: false
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
-
+* [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
 {% comment %}
 {% endcomment %}
