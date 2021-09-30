@@ -15,5 +15,6 @@ exclude_from_nav: false
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
     * [Machine Representation Notebook]({{ site.baseurl }}/data/notes/representation.ipynb)
+    * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
 {% comment %}
 {% endcomment %}
