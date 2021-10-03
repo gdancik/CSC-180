@@ -16,5 +16,6 @@ exclude_from_nav: false
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
     * [Machine Representation Notebook]({{ site.baseurl }}/data/notes/representation.ipynb)
     * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
+* [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
 {% comment %}
 {% endcomment %}
