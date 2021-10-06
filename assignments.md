@@ -20,3 +20,4 @@ exclude_from_nav: false
 * [Lab 3]({{ site.baseurl }}/data/hw/lab3.ipynb) (Due: Monday, 9/20/2021; turn in a hard copy at the beginning of class)
 <hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 4]({{ site.baseurl }}/data/hw/lab4.ipynb) (Due: Wednesday, 10/06/2021; turn in a hard copy at the beginning of class)
+* [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/14/2021; turn in a hard copy at the beginning of class)
