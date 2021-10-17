@@ -18,5 +18,6 @@ exclude_from_nav: false
     * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
 * [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
+* Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
 {% comment %}
 {% endcomment %}
