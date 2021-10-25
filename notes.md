@@ -19,5 +19,6 @@ exclude_from_nav: false
 * [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
+* Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
 {% comment %}
 {% endcomment %}
