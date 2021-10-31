@@ -20,5 +20,6 @@ exclude_from_nav: false
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
+* [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 {% comment %}
 {% endcomment %}
