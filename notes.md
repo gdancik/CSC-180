@@ -21,5 +21,6 @@ exclude_from_nav: false
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
+* [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 {% comment %}
 {% endcomment %}
