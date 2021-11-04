@@ -22,5 +22,6 @@ exclude_from_nav: false
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
+* [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
 {% comment %}
 {% endcomment %}
