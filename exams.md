@@ -12,7 +12,7 @@ order: 4
     - [Practice Problems]({{ site.baseurl }}/data/exams/examI_practice.ipynb)
 * Exam II
     - [Exam II Outline and Practice]({{ site.baseurl }}/data/exams/ExamIIOutline.pdf)
-    - [Binary and Hex Practicde]({{ site.baseurl }}/data/exams/BinaryAndHexPractice.ipynb)
+    - [Binary and Hex Practice]({{ site.baseurl }}/data/exams/BinaryAndHexPractice.ipynb)
 
 {% comment %}
 * [NLP Project]({{ site.baseurl }}/data/exams/nlp_project.pdf) (Due: Wednesday, 10/30/2019, submit through [Blackboard](http://easternct.blackboard.com))
