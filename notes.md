@@ -23,5 +23,6 @@ exclude_from_nav: false
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
+* [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
 {% comment %}
 {% endcomment %}
