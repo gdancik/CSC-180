@@ -25,3 +25,4 @@ exclude_from_nav: false
 * Lab 7 (Due: Monday, 11/15/2021; turn in a hard copy of the questions and notebook at the beginning of class)
     * [Lab 7 Questions]({{ site.baseurl }}/data/hw/lab7.pdf) 
     * [Lab 7 Notebook]({{ site.baseurl }}/data/hw/lab7.ipynb) 
+* Lab 8 (Due: Monday, 11/22/2021; turn in a hard copy of the questions and notebook at the beginning of class)
