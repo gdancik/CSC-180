@@ -24,5 +24,6 @@ exclude_from_nav: false
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
+* [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
 {% comment %}
 {% endcomment %}
