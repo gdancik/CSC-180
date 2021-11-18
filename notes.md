@@ -25,5 +25,6 @@ exclude_from_nav: false
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
+    * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
 {% comment %}
 {% endcomment %}
