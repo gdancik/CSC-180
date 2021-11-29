@@ -26,5 +26,6 @@ exclude_from_nav: false
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
     * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
+* [Traveling Salesman]({{ site.baseurl }}/data/notes/TravelingSalesman.pdf)
 {% comment %}
 {% endcomment %}
