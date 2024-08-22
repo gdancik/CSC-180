@@ -13,7 +13,7 @@ exclude_from_nav: false
 {% endcomment %}
 <ul>
 <ul>
-    <li>Install the necessary software for your personal computer (instructions are on the <a href = "/info/">Course Information</a> page).</li>
+    <li>Install the necessary software for your personal computer (instructions are on the <a href = "../info/">Course Information</a> page).</li>
     <li>Look through the <a href = "../data/notes/notebooks.ipynb">"Notebook" Notebook</a> (not collected)</li> 
 </ul></ul>
 {% comment %}
