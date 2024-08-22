@@ -8,7 +8,7 @@ exclude_from_nav: false
 
 * Introductory Notes (see [Blackboard](https://easternct.blackboard.com/))
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
-    * [The "Notebook" Notebook]({{ site.baseurl }}/data/notes/notebooks.ipynb)
+{% comment %}
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
@@ -29,5 +29,4 @@ exclude_from_nav: false
 * [Traveling Salesman]({{ site.baseurl }}/data/notes/TravelingSalesman.pdf)
 * [Ethics]({{ site.baseurl }}/data/notes/ethics.pdf)
 * Wrap Up (see [Blackboard](https://easternct.blackboard.com/))
-{% comment %}
 {% endcomment %}
