@@ -9,3 +9,4 @@ order: 1
     * [Schedule a meeting during office hours](https://outlook.office365.com/owa/calendar/DrGarrettDancik@myeasternct.onmicrosoft.com/bookings/)
 * [Software Installation Instructions]({{ site.baseurl }}/data/info/software.pdf)
 * [VS Code Cheatsheet]({{ site.baseurl }}/data/info/VSCodeOverview.pdf)
+* [How to Submit Python Code]({{ site.baseurl }}/data/info/PythonCodeSubmission.pdf)

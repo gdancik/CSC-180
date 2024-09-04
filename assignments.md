@@ -18,7 +18,11 @@ exclude_from_nav: false
 </ul></ul>
 {% comment %}
 </div>
-* [Lab 1]({{ site.baseurl }}/data/hw/lab1.ipynb) (Due: Wednesday, 9/8/2021; turn in a hard copy at the beginning of class)
+{% endcomment %}
+* Lab 1 (Due: Monday, 09/09/2024; turn in a hard copy at the beginning of class)
+	* [Lab 1, Question 1]({{ site.baseurl }}/data/hw/hw1_algorithms.pdf) 
+	* [Lab 1 Notebook]({{ site.baseurl }}/data/hw/lab1.ipynb) 
+{% comment %}
 * [Lab 2]({{ site.baseurl }}/data/hw/lab2.ipynb) (Due: Wednesday, 9/15/2021; turn in a hard copy at the beginning of class)
 * [Lab 3]({{ site.baseurl }}/data/hw/lab3.ipynb) (Due: Monday, 9/20/2021; turn in a hard copy at the beginning of class)
 * [Lab 4]({{ site.baseurl }}/data/hw/lab4.ipynb) (Due: Wednesday, 10/06/2021; turn in a hard copy at the beginning of class)
@@ -30,3 +34,46 @@ exclude_from_nav: false
     * [Lab 7 Notebook]({{ site.baseurl }}/data/hw/lab7.ipynb) 
 * [Lab 8]({{ site.baseurl }}/data/hw/lab8.pdf) (Due: Monday, 11/29/2021; turn in a hard copy of the questions and notebook at the beginning of class)
 {% endcomment %}
+
+
+
+<script>
+const pattern = RegExp('Due:.*([0-9]{2}/[0-9]+/[0-9]{4})');
+elements = document.getElementsByTagName('li');
+
+for (el of elements) {
+        var res = pattern.exec(el.innerText);
+        if (res != null && res.length >= 2) {
+                if (new Date(res[1]) >= new Date()) {
+                        el.className = 'due';
+                }
+        }
+}
+</script>
+
+
+<style>
+
+.hide {
+  display:none
+}
+
+table, th, td {
+  border: 0px solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+td.left {
+    text-align: left;
+}
+
+a.hide, tr.hide {
+    display: none;
+}
+
+.due {
+    background-color: yellow
+}
+
+</style>
