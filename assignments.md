@@ -19,7 +19,7 @@ exclude_from_nav: false
 {% comment %}
 </div>
 {% endcomment %}
-* Lab 1 (Due: Monday, 09/09/2024; turn in a hard copy at the beginning of class)
+* Lab 1 (Due: <strike>Monday, 09/09/2024</strike> Wednesday, 09/11/2024; turn in a hard copy at the beginning of class)
 	* [Lab 1, Question 1]({{ site.baseurl }}/data/hw/hw1_algorithms.pdf) 
 	* [Lab 1 Notebook]({{ site.baseurl }}/data/hw/lab1.ipynb) 
 {% comment %}
