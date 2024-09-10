@@ -22,8 +22,8 @@ exclude_from_nav: false
 * Lab 1 (Due: <strike>Monday, 09/09/2024</strike> Wednesday, 09/11/2024; turn in a hard copy at the beginning of class)
 	* [Lab 1, Question 1]({{ site.baseurl }}/data/hw/hw1_algorithms.pdf) 
 	* [Lab 1 Notebook]({{ site.baseurl }}/data/hw/lab1.ipynb) 
+* [Lab 2]({{ site.baseurl }}/data/hw/lab2.ipynb) (Due: Monday, 9/16/2024; turn in a hard copy at the beginning of class)
 {% comment %}
-* [Lab 2]({{ site.baseurl }}/data/hw/lab2.ipynb) (Due: Wednesday, 9/15/2021; turn in a hard copy at the beginning of class)
 * [Lab 3]({{ site.baseurl }}/data/hw/lab3.ipynb) (Due: Monday, 9/20/2021; turn in a hard copy at the beginning of class)
 * [Lab 4]({{ site.baseurl }}/data/hw/lab4.ipynb) (Due: Wednesday, 10/06/2021; turn in a hard copy at the beginning of class)
 * [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/13/2021; turn in a hard copy at the beginning of class)

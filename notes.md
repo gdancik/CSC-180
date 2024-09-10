@@ -10,8 +10,8 @@ exclude_from_nav: false
     * [Introductory Jupyter Notebook]({{ site.baseurl }}/data/notes/intro.ipynb)
 * [Algorithms]({{ site.baseurl }}/data/notes/Algorithms.pdf)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
-{% comment %}
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
+{% comment %}
 * [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
