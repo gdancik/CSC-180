@@ -11,9 +11,9 @@ exclude_from_nav: false
 * [Algorithms]({{ site.baseurl }}/data/notes/Algorithms.pdf)
 * [Variables and Expressions]({{ site.baseurl }}/data/notes/variables_and_expressions.ipynb)
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
-{% comment %}
 * [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
+{% comment %}
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
     * [Machine Representation Notebook]({{ site.baseurl }}/data/notes/representation.ipynb)
     * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
