@@ -13,9 +13,9 @@ exclude_from_nav: false
 * [Branching]({{ site.baseurl }}/data/notes/branching.ipynb)
 * [Sequences]({{ site.baseurl }}/data/notes/sequences.ipynb)
 * [Loops]({{ site.baseurl }}/data/notes/loops.ipynb)
-{% comment %}
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
     * [Machine Representation Notebook]({{ site.baseurl }}/data/notes/representation.ipynb)
+{% comment %}
     * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
 * [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
