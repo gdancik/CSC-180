@@ -28,8 +28,8 @@ exclude_from_nav: false
 * Lab 4 (Due: Monday, 10/07/2024)
 	* [Lab 4, Part 1]({{ site.baseurl }}/data/hw/lab4.pdf) (Submit hardcopy at beginning of class)
 	* [Lab 4, Python]({{ site.baseurl }}/data/hw/lab4.ipynb) (Subit through [blackboard](https://easternct.blackboard.com))
+* [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/16/2024; turn in a hard copy at the beginning of class)
 {% comment %}
-* [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/13/2021; turn in a hard copy at the beginning of class)
 * [Lab 6]({{ site.baseurl }}/data/hw/lab6.pdf) (Due: Wednesday, 10/20/2021; turn in a hard copy at the beginning of class)
 * Lab 7 (Due: Monday, 11/15/2021; turn in a hard copy of the questions and notebook at the beginning of class)
     * [Lab 7 Questions]({{ site.baseurl }}/data/hw/lab7.pdf) 
