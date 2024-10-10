@@ -24,10 +24,10 @@ exclude_from_nav: false
 	* [Lab 1 Notebook]({{ site.baseurl }}/data/hw/lab1.ipynb) 
 * [Lab 2]({{ site.baseurl }}/data/hw/lab2.ipynb) (Due: Monday, 09/16/2024; <strike>turn in a hard copy at the beginning of class</strike> submit through [blackboard](https://easternct.blackboard.com))
 * [Lab 3]({{ site.baseurl }}/data/hw/lab3.ipynb) (Due: Monday, 09/23/2024, by 8:00 AM; submit through [blackboard](https://easternct.blackboard.com))
-<hr style = "margin:5px; height:1px; background-color:red;">
 * Lab 4 (Due: Monday, 10/07/2024)
 	* [Lab 4, Part 1]({{ site.baseurl }}/data/hw/lab4.pdf) (Submit hardcopy at beginning of class)
 	* [Lab 4, Python]({{ site.baseurl }}/data/hw/lab4.ipynb) (Subit through [blackboard](https://easternct.blackboard.com))
+<hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/16/2024; turn in a hard copy at the beginning of class)
 {% comment %}
 * [Lab 6]({{ site.baseurl }}/data/hw/lab6.pdf) (Due: Wednesday, 10/20/2021; turn in a hard copy at the beginning of class)
