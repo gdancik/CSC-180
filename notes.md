@@ -16,8 +16,8 @@ exclude_from_nav: false
 * [Binary and Machine Representation of Data]({{ site.baseurl }}/data/notes/Binary.pdf)
     * [Machine Representation Notebook]({{ site.baseurl }}/data/notes/representation.ipynb)
 * [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
-{% comment %}
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
+{% comment %}
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
