@@ -18,8 +18,9 @@ exclude_from_nav: false
 * [Logic Gates and Circuits]({{ site.baseurl }}/data/notes/Gates.pdf)
 * [Additional Circuits]({{ site.baseurl }}/data/notes/AdditionalCircuits.pdf)
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
-{% comment %}
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
+* Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
+{% comment %}
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)

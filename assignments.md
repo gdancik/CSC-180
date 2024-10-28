@@ -28,8 +28,8 @@ exclude_from_nav: false
 	* [Lab 4, Part 1]({{ site.baseurl }}/data/hw/lab4.pdf) (Submit hardcopy at beginning of class)
 	* [Lab 4, Python]({{ site.baseurl }}/data/hw/lab4.ipynb) (Subit through [blackboard](https://easternct.blackboard.com))
 * [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/16/2024; turn in a hard copy at the beginning of class)
-<hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 6]({{ site.baseurl }}/data/hw/lab6.pdf) (Due: Wednesday, 10/23/2024; turn in a hard copy at the beginning of class)
+<hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 7]({{ site.baseurl }}/data/hw/lab7.pdf) (Due: Monday, 10/28/2024; turn in a hard copy at the beginning of class)
 {% comment %}
 * Lab 7 (Due: Monday, 11/15/2021; turn in a hard copy of the questions and notebook at the beginning of class)
