@@ -20,9 +20,9 @@ exclude_from_nav: false
 * Computer Organization Notes (see [Blackboard](https://easternct.blackboard.com/))
 * Latches and Flip-Flop Notes (see [Blackboard](https://easternct.blackboard.com/))
 * Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
-{% comment %}
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
+{% comment %}
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
