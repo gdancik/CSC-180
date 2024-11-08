@@ -22,8 +22,8 @@ exclude_from_nav: false
 * Compiler Explorer: [https://godbolt.org/](https://godbolt.org/)
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
-{% comment %}
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
+{% comment %}
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
     * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
