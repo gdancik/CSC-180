@@ -23,8 +23,8 @@ exclude_from_nav: false
 * [Algorithms and Complexity]({{ site.baseurl }}/data/notes/Algorithms_and_Complexity.ipynb)
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
-{% comment %}
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
+{% comment %}
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
     * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
 * [Traveling Salesman]({{ site.baseurl }}/data/notes/TravelingSalesman.pdf)
