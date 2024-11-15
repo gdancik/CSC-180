@@ -30,10 +30,10 @@ exclude_from_nav: false
 * [Lab 5]({{ site.baseurl }}/data/hw/lab5.pdf) (Due: Wednesday, 10/16/2024; turn in a hard copy at the beginning of class)
 * [Lab 6]({{ site.baseurl }}/data/hw/lab6.pdf) (Due: Wednesday, 10/23/2024; turn in a hard copy at the beginning of class)
 * [Lab 7]({{ site.baseurl }}/data/hw/lab7.pdf) (Due: Monday, 10/28/2024; turn in a hard copy at the beginning of class)
-<hr style = "margin:5px; height:1px; background-color:red;">
 * Lab 8 (Due: Friday, 11/15/2024; turn in a hard copy of the questions; submit code through [blackboard](https://easternct.blackboard.com))
     * [Lab 8 Questions]({{ site.baseurl }}/data/hw/lab8.docx) 
     * [Lab 8 Notebook]({{ site.baseurl }}/data/hw/lab8.ipynb) 
+<hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 9]({{ site.baseurl }}/data/hw/lab9.docx) (Due: Friday, 11/22/2024; turn in a hard copy of the questions at the beginning of class)
 {% comment %}
 {% endcomment %}
