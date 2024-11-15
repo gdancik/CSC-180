@@ -34,8 +34,8 @@ exclude_from_nav: false
 * Lab 8 (Due: Friday, 11/15/2024; turn in a hard copy of the questions; submit code through [blackboard](https://easternct.blackboard.com))
     * [Lab 8 Questions]({{ site.baseurl }}/data/hw/lab8.docx) 
     * [Lab 8 Notebook]({{ site.baseurl }}/data/hw/lab8.ipynb) 
+* [Lab 9]({{ site.baseurl }}/data/hw/lab9.docx) (Due: Friday, 11/22/2024; turn in a hard copy of the questions at the beginning of class)
 {% comment %}
-* [Lab 8]({{ site.baseurl }}/data/hw/lab8.pdf) (Due: Monday, 11/29/2021; turn in a hard copy of the questions and notebook at the beginning of class)
 {% endcomment %}
 
 <script>
