@@ -24,9 +24,9 @@ exclude_from_nav: false
 * [Timeit]({{ site.baseurl }}/data/notes/timeit.ipynb)
 * [Cleanup Algorithms]({{ site.baseurl }}/data/notes/Cleanup.pdf)
 * [Searching Algorithms]({{ site.baseurl }}/data/notes/Searching.pdf)
-{% comment %}
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
     * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
+{% comment %}
 * [Traveling Salesman]({{ site.baseurl }}/data/notes/TravelingSalesman.pdf)
 * [Ethics]({{ site.baseurl }}/data/notes/ethics.pdf)
 * Wrap Up (see [Blackboard](https://easternct.blackboard.com/))
