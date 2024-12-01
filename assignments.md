@@ -33,8 +33,8 @@ exclude_from_nav: false
 * Lab 8 (Due: Friday, 11/15/2024; turn in a hard copy of the questions; submit code through [blackboard](https://easternct.blackboard.com))
     * [Lab 8 Questions]({{ site.baseurl }}/data/hw/lab8.docx) 
     * [Lab 8 Notebook]({{ site.baseurl }}/data/hw/lab8.ipynb) 
-<hr style = "margin:5px; height:1px; background-color:red;">
 * [Lab 9]({{ site.baseurl }}/data/hw/lab9.docx) (Due: Friday, 11/22/2024; turn in a hard copy of the questions at the beginning of class)
+<hr style = "margin:5px; height:1px; background-color:red;">
 {% comment %}
 {% endcomment %}
 
