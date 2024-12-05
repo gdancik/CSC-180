@@ -27,8 +27,9 @@ exclude_from_nav: false
 * [Sorting Algorithms]({{ site.baseurl }}/data/notes/Sorting.pdf)
     * [Practice Notebook]({{ site.baseurl }}/data/notes/SortingAlgorithms.ipynb)
 * [Traveling Salesman]({{ site.baseurl }}/data/notes/TravelingSalesman.pdf)
-{% comment %}
 * [Ethics]({{ site.baseurl }}/data/notes/ethics.pdf)
 * Wrap Up (see [Blackboard](https://easternct.blackboard.com/))
+
+{% comment %}
     * [encoding_test]({{ site.baseurl }}/data/notes/encoding_test.txt)
 {% endcomment %}
